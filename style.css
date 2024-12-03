@@ -2206,6 +2206,7 @@ textarea.w-select {
 body {
   font-family: var(--primary-family);
   color: var(--color-4);
+  /* color: #0f00b6; */
   font-size: 20px;
   font-weight: 500;
   line-height: 1.5em;
@@ -2213,7 +2214,8 @@ body {
 
 h1 {
   font-family: var(--secondary-family);
-  color: var(--color-black);
+  color: rgb(230, 65, 0);
+  /* color: var(--color-black); */
   margin-top: 0;
   margin-bottom: 0;
   font-size: 128px;
